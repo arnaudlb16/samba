@@ -545,9 +545,9 @@ textarea.form-control {
 }
 
 .navbar-custom .navbar-brand {
-	font-weight: 700;
+	font-weight: medium;
 	font-size: 22px;
-    font-family: Lobster, cursive;
+    font-family: Avenir next condensed;
 }
 
 .navbar-custom .dropdown-menu {
@@ -606,7 +606,7 @@ textarea.form-control {
 .scroll-down {
 	position: absolute;
 	left: 50%;
-	bottom: 40px;
+	bottom: 15px;
 	border: 2px solid grey;
 	border-radius: 50%;
 	height: 50px;
